@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25547452-6875-4d74-af93-6cd127a7b76d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/about/AboutPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/common/HeaderPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/common/PageNotFound.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/courses/CoursesPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/home/HomePage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
-    </list>
+    <list default="true" id="25547452-6875-4d74-af93-6cd127a7b76d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,18 +59,31 @@
       <option name="presentableId" value="Default" />
       <updated>1580555171656</updated>
       <workItem from="1580555173099" duration="4886000" />
-      <workItem from="1580647761740" duration="173000" />
+      <workItem from="1580647761740" duration="479000" />
     </task>
+    <task id="LOCAL-00001" summary="new">
+      <created>1580648737813</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580648737813</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="643" y="677" key="CommitChangelistDialog2" timestamp="1580640727409">
-      <screen x="61" y="23" width="3779" height="2137" />
+    <state x="645" y="677" key="CommitChangelistDialog2" timestamp="1580648737636">
+      <screen x="63" y="23" width="3777" height="2137" />
     </state>
     <state x="643" y="677" key="CommitChangelistDialog2/3840.370.1680.1027/61.23.3779.2137@61.23.3779.2137" timestamp="1580640727409" />
+    <state x="645" y="677" key="CommitChangelistDialog2/3840.370.1680.1027/63.23.3777.2137@63.23.3777.2137" timestamp="1580648737636" />
     <state x="61" y="213" key="DiffContextDialog" timestamp="1580640721383">
       <screen x="61" y="23" width="3779" height="2137" />
     </state>
@@ -93,5 +92,9 @@
       <screen x="60" y="23" width="3780" height="2137" />
     </state>
     <state x="908" y="997" key="Github.ShareDialog/3840.370.1680.1027/60.23.3780.2137@60.23.3780.2137" timestamp="1580646905560" />
+    <state x="584" y="823" key="Vcs.Push.Dialog.v2" timestamp="1580648745624">
+      <screen x="63" y="23" width="3777" height="2137" />
+    </state>
+    <state x="584" y="823" key="Vcs.Push.Dialog.v2/3840.370.1680.1027/63.23.3777.2137@63.23.3777.2137" timestamp="1580648745624" />
   </component>
 </project>
