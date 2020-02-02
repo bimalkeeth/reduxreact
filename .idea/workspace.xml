@@ -1,8 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25547452-6875-4d74-af93-6cd127a7b76d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/about/AboutPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/common/HeaderPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/common/PageNotFound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/courses/CoursesPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/home/HomePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XCfoSSsnhVEkQn32UcW7l1S0pN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25547452-6875-4d74-af93-6cd127a7b76d" name="Default Changelist" comment="" />
+      <created>1580555171656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580555171656</updated>
+      <workItem from="1580555173099" duration="4886000" />
+      <workItem from="1580647761740" duration="173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="643" y="677" key="CommitChangelistDialog2" timestamp="1580640727409">
+      <screen x="61" y="23" width="3779" height="2137" />
+    </state>
+    <state x="643" y="677" key="CommitChangelistDialog2/3840.370.1680.1027/61.23.3779.2137@61.23.3779.2137" timestamp="1580640727409" />
+    <state x="61" y="213" key="DiffContextDialog" timestamp="1580640721383">
+      <screen x="61" y="23" width="3779" height="2137" />
+    </state>
+    <state x="61" y="213" key="DiffContextDialog/3840.370.1680.1027/61.23.3779.2137@61.23.3779.2137" timestamp="1580640721383" />
+    <state x="908" y="997" key="Github.ShareDialog" timestamp="1580646905560">
+      <screen x="60" y="23" width="3780" height="2137" />
+    </state>
+    <state x="908" y="997" key="Github.ShareDialog/3840.370.1680.1027/60.23.3780.2137@60.23.3780.2137" timestamp="1580646905560" />
   </component>
 </project>
