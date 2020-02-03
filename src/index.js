@@ -7,8 +7,12 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import configureStore from "./redux/configureStore";
 import {Provider as ReduxProvider} from "react-redux"
 
-const store =configureStore()
-render( <ReduxProvider store={store}><Router><App/></Router></ReduxProvider>,document.getElementById('root'))
+const store =configureStore();
+render( <ReduxProvider store={store}>
+    <Router>
+        <App/>
+    </Router>
+</ReduxProvider>,document.getElementById('root'));
 
 //ReactDOM.render(<App />, document.getElementById('root'));
 // If you want your app to work offline and load faster, you can change
